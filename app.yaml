@@ -1,6 +1,6 @@
-application: <GAE-PROJECT-NAME>
+application: EasyTo
 version: 1
-runtime: python27
+runtime: python
 api_version: 1
 threadsafe: yes
 
